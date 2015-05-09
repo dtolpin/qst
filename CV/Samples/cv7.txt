@@ -1,0 +1,116 @@
+Resume
+
+ email: ***@***.***
+ phone: 7-095 ***-*****
+ address: Moscow, ********
+ 
+ > Programmer/analyst/designer, C++, MS VC++ / MFC,
+ > languages/compilers design, OCR
+
+ - MSCS with 5 years of professional programming experience on PC and
+other computers
+ - C++/C, MFC, MS VC++, Visual Basic, MS Access, SQLWindows,
+Borland C++, Asm I86, Z-80, HTML, ForeHelp
+ - Experience at international companies
+ - Team player, team leader, consultant, problem solver,
+good communication skills
+ - Development of OCR engines, syntax analyzers, code generators,
+deep math/algorithm background
+ - Design and development of database applications
+ - Development of embedded systems, cross-system programming
+ - Client-server, user interface design, DLLs, device drivers,
+kernel-level programming, IPX, NetBIOS
+ - Some UNIX, PDP-11
+ - Good written and spoken English
+
+
+OBJECTIVES
+
+Participation in software development projects, demanding best of
+my professional skills and interests. Long-term relocation.
+
+
+EDUCATION
+
+1992 - Master of Science in Computer Science. Moscow Institute of
+Physics and Technology, Department of Control and Applied Mathematics,
+specializing in syntax analysis.
+
+
+REPRESENTATIVE PROJECTS
+
+1991 - 1993: Optical Character Recognition engine for BIT Software,
+Russia. OCR engine recognizes line-art scanned printed text. Engine
+covers all stages of recognition process, including image unskew,
+line extraction, division of line on signs, character pattern matching,
+self-learning module. Implemented with C/C++/Intel86 asm. The engine
+is the kernel of FineReader 1.0. BIT Software's Fine Reader OCR system
+now is the Russian market leader and is also sold in other countries,
+http://www.bitsoft.ru/products/fine/fonttransform.htm,
+http://www.bitsoft.ru.
+
+1997: Training and consulting for NIITP, Russia. Training and
+consulting 14 employees for MS VC++, MFC and object-oriented
+programming in C++. Precise balance of programming theory,
+practical exercises and covering personal requirements yields
+fast learning curve.
+
+1997: CDigest Navigator application, for BIT Software, Russia.
+Document digest holds 1000+ scanned images of USSR standards,
+placed on 3-CD set, and CDigest Navigator is the auto-starting
+application, to navigate through them. Key features: flexible
+interface tuning through INI file, document encryption, transparent
+quick setup. MS VC++ / MFC.
+
+1997: Goggle Demon security CCTV application, for Fractal+, Russia.
+NT server application controls security hardware of different
+manufacturers. Security personnel watches and controls the situation
+through Win95 GUI clients, communicating with server via IPX.
+Key features: client-server architecture, multithreading, real-time.
+My responsibility was architectural design, data structure design
+and development, general libraries, IPX communication. MS VC++ / MFC.
+
+1996-1997: Volume Professional software system for regional
+divisions of Business Russia Ltd. trade house. MS Access.
+My responsibilities were task analysis, algorithm consulting,
+design of database structure, SQL and VB programming.
+
+
+EMPLOYMENT HISTORY
+
+1997: Analyst, designer, developer. Contract for BIT Software, Russia.
+CDigest Navigator application.
+
+1997: Designer, developer. Fractal+, Moscow, Russia.
+Design and development of Goggle Demon security application.
+
+1996 - 1997: Analyst, designer, developer. Business Russia Ltd.,
+Moscow, Russia. Analysis and design of Volume Professional software
+system for regional divisions of Business Russia.
+
+1995 - 1996: Senior programmer. Moscow branch of Merlin s.r.o., Prague,
+Czech. Localization, development and maintenance of automobile parking
+system software. Gupta SQLWindows, C++, TCAL (branch of Cobol),
+TELXON (portable i86 computer). Development of RT-Control application
+for process control and monitoring. MS VC++.
+
+1994: Analyst, designer, developer. OLBI-CARD, Moscow, Russia.
+Cross-platform development of OLBI-CARD Point Of Sale Terminal
+application for serving credit cards. Includes display output system,
+modem communications, credit card format parsing, client/server
+operations based on proprietary LAN. C, OMNI POS Terminal, modem
+communications, LAN.
+
+1992 - 1994: Analyst, designer, developer. Moscow branch of
+Gebacom GmbH, Augsburg, Germany. Development of modem driver,
+LAN driver (NetBIOS). Development of object system based on Minsky
+frames idea. C++, C, Intel86 asm.
+
+1991 - 1992: Analyst, designer, developer, consultant. BIT software,
+Moscow, Russia. Development of OCR engine for FineReader OCR system.
+
+
+PERSONAL INFORMATION
+
+Age 28. Single. Non-smoker.
+	

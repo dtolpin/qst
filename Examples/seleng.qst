@@ -1,0 +1,115 @@
+Ssp() Kidney Diseases
+
+Psp()#  Number of card   ****                                     Pasp_1
+
+        Name and surname ...                                      Pasp_2
+        Sex  male   -1
+             female -2      *                                     Pasp_3
+        Age (0-16 years)   **                                     Pasp_4
+        Home address     ...                                          Pasp_5
+        N of school or
+        kindergarden     ****                                     Pasp_6
+Psp     Class (group)    ...                                       Pasp_7
+
+Px()    Physical examination
+
+Kds(0)  Kidney diseases in family             *                     Kdis_1
+          mother                              *                     Kdis_2
+          father                              *                     Kdis_3
+          siblings                            *                     Kdis_4
+          other relatives                     *                     Kdis_5
+
+          number of nephropathies cases      **                     Kdis_6
+Kds       are the nephropathies similar?      *                     Kdis_7
+
+Stg()   Dysembryogenesis stigmas
+          epicanthus                          *                     Stg_1
+          eye hypertelorism                   *                     Stg_2
+          "gothic" palate                     *                     Stg_3
+          low growth of occipital hairs       *                     Stg_4
+          earflop anomalies                   *                     Stg_5
+          teeth anomalies                     *                     Stg_6
+          eye anomalies                       *                     Stg_7
+          webbed neck                         *                     Stg_8
+          short neck                          *                     Stg_9
+          funnel breast                       *                     Stg_10
+          nipple hyperthelorism               *                     Stg_11
+          additional nipples                  *                     Stg_12
+          wide umbilical ring                 *                     Stg_13
+          syndactylia                         *                     Stg_14
+          polydactylia                        *                     Stg_15
+          arachnodactylia                     *                     Stg_16
+          pterygodactylia                     *                     Stg_17
+          short little finger                 *                     Stg_18
+
+Stg       the number of other stigmas(0-9)    *                     Stg_19
+
+Abd(0)  Abdominal pain                        *                     AbdP_1
+          epigastrium     *                                        AbdP_2
+          subcostal area  *                                        AbdP_3
+          lumbal area     *                                        AbdP_4
+          iliac area      *                                        AbdP_5
+          pubic area      *                                        AbdP_6
+
+          pain connected: with eating         *                     AbdP_7
+                          with physical work  *                     AbdP_8
+                          with urination      *                     AbdP_9
+
+          pain accompanied by nauzea
+Abd                          and/or vomiting  *                     AbdP_10
+
+Gpr(0)  Arterial hypertension
+          no -0  transient -1  constant -2    *                    Gpr_1
+
+          high systolic BP
+          no -0  moderate  -1  severe   -2    *                    Gpr_2
+
+          high diastolic BP
+          no -0  moderate  -1  severe   -2    *                    Gpr_3
+
+          headache      *                                          Gpr_4
+Gpr       retinopathy   *                                          Gpr_5
+
+Gpt(0)  Arterial hypotension
+          no -0  transient -1  constant -2    *                    Gpt_1
+          moderate -1  severe -2              *                    Gpt_2
+Gpt;Px    headache,dizziness                  *                    Gpt_3
+
+Pdo(0)  Is laboratory examination done :      *                    Pdo_1
+
+Anm(0)  Abnormal urinalyses
+                    (including crystalluria)  *                    Anm_1
+
+          leucocyturia      no -0  mild   -1
+                      moderate -2  severe -3  *                    AnmL
+
+          erythrocyturia    no -0  mild   -1
+                      moderate -2  severe -3  *                    AnmE
+
+          proteinuria       no -0  mild   -1
+                      moderate -2  severe -3  *                    AnmP
+
+Krs(0)    crystalluria                        *                    Krs_1
+            transient -1  constant -2         *                    Krs_2
+            calcium oxalate crystals          *                    Krs_3
+            calcium phosphate crystals        *                    Krs_4
+            urate crystals                    *                    Krs_5
+Krs;Anm     mixed crystals                    *                    Krs_6
+
+Rnt(0)  Urinary tract abnormalities revealed
+        on X-ray or ultrasound examination    *                    Rnt_1
+
+          pyelectasis                         *                    Rnt_2
+          hydronephrosis                      *                    Rnt_3
+          anomalies of pyelocaliceal system   *                    Rnt_4
+          floating kidney                     *                    Rnt_5
+          vesicoureteral reflux               *                    Rnt_6
+          kidney stones                       *                    Rnt_7
+Rnt       cystic kidneys                      *                    Rnt_8
+
+Dgn(0)# Do you know the conclusion under
+        the results of laboratory examination *                    Dgn_1
+              conclusion : ...                                        Dgn_2
+                           ...                                        Dgn_3
+                           ...                                        Dgn_4
+Dgn;Pdo;Ssp

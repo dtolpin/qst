@@ -1,0 +1,43 @@
+# $Id: qst.grammar,v 1.1 2005/04/05 09:15:55 dvd Exp $
+
+start = section
+section = element section {
+	name,
+	guard?,
+	element title {text}?,
+	question, 
+	(question|section)
+}
+
+name = attribute name {token}
+guard = attribute guard {token}
+
+question = element question {
+	name,
+	(text & input-field*)
+}
+
+input-field = boolean | range | fixnum | plaintext
+
+boolean = element boolean {
+	attribute value {"false"|"true"}?
+}
+
+range = element range {
+	attribute value {xsd:integer}?,
+	element item {
+		attribute label {text},
+		attribute value {xsd:integer},
+		attribute select {"selected"}?
+	}+
+}
+
+fixnum = element fixnum {
+	attribute value {xsd:decimal}?,
+	attribute min {xsd:decimal}?,
+	attribute max {xsd:decimal}?
+}
+
+plaintext = element plaintext {
+	attribute value {text}?
+}

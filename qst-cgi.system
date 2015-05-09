@@ -1,0 +1,9 @@
+(in-package "CL-USER")
+
+(mk:defsystem "qst-cgi"
+	:source-extension "lisp"
+	:source-pathname 
+		(make-pathname :name nil :type nil :version nil
+    		:defaults (parse-namestring *load-truename*))
+	:depends-on ("qst" "cgi")
+	:components ((:file "qst-cgi")))

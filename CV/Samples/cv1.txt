@@ -1,0 +1,124 @@
+Curriculum Vitae
+================
+
+
+Personal information
+-------------------
+
+Name:
+  *** *******
+E-mail:
+  ***@****.****
+JabberID:
+  ***@***.***
+
+Nationality:
+  Russian
+Date of birth:
+  ** ****** 1981
+Birth place:
+  Moscow, Russia
+
+Marital status:
+  Married
+
+
+Work experience
+---------------
+
+Date (from - to):
+  March 2004 - present
+Name of employer:
+  ****soft/********
+Type of business or sector:
+  Embedded Linux environments
+Occupation or position held:
+  Software Engineer
+Main activities and responsibilities:
+  Participating on the Quality Assurance team; Linux kernel hacking;
+  driver porting (2.4 - > 2.6); working with different development
+  boards, various hardware architectures and sub-architectures;
+  development of test-cases/test-codes; consulting.
+
+Date (from - to):
+  August 2003 - February 2004
+Name of employer:
+  ****/***bank
+Type of business or sector:
+  Corporate Banking
+Occupation or position held:
+  Internal Software Developer
+Main activities and responsibilities:
+  Development of the engine and user interface for the automation of
+  the consumer credit delivery processes.
+
+Date (from - to):
+  July 2002 - July 2003
+Name of employer:
+  ***
+Type of business or sector:
+  Education sponsorship
+Occupation or position held:
+  System administrator
+Main activities and responsibilities:
+  Administration of several servers based on Debian GNU/Linux. Office
+  hardware maintenance.
+
+Date (from - to):
+  July 2002 - July 2003
+Name of employer:
+  ****
+Type of business or sector:
+  Printing house
+Occupation or position held:
+  Junior engineer
+Main activities and responsibilities:
+  Support of the printing process, printer management.
+
+
+Professional skills
+-------------------
+
+Programming languages:
+  C, Perl, Ruby, PHP, Python, Bourne shell, SQL, XML
+
+Operating systems:
+  IBM OS/2, SuSE Linux, Debian GNU/Linux
+  Linux knowledge/experience level -- guru/hacker.
+  Studying/working under any other UNIX is also possible.
+
+Applications:
+  Emacs, CVS, Subversion, Bugzilla, Apache, Bind, Postfix, PostgreSQL,
+  MySQL, Jabberd (1 and 2), eJabberd, JiveMessenger and many others
+
+Relevant tasks:
+  FTP, Web, DNS, Mail, VPNs, Firewalls, Jabber/XMPP, NNTP and so on
+
+Frameworks and toolkits:
+  CherryPy, wxPython, Erlang, Django, Several Python-based template
+  systems
+
+Recent projects:
+  Automation test suites for IO drivers, filesystems, etc (Python,
+  pexpect, Bourne shell).
+  DPM, IPMI, EventLogger test-cases development/porting (plain C,
+  Bourne shell).
+  K*******t.Ru, Online Literary Almanac: support, improvement,
+  data backup (PHP/MySQL/sh). At present -- development of new
+  pythonic web-engine based on Django and PostgreSQL (in progress).
+
+
+Additional information
+----------------------
+
+Fluent in:
+  Russian, English
+
+Social skills and personality traits:
+  Enthusiastic, self-driven, detail-oriented
+
+Interests and hobbies:
+  GNU Software, OpenSource Software, Debian GNU/Linux.
+  Python programming, Jabber/XMPP programming/administrating.
+  Maintenance of small non-commercial web-hosting service.
+  Fishing (not phishing). Reading various books.

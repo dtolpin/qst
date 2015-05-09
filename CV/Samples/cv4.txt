@@ -1,0 +1,50 @@
+    E-mail: *****@****.***
+
+
+Education
+~~~~~~~~~
+    2004 - present
+
+    Moscow Institute of Physics and Technology, Department of Radio
+    Engineering and Cybernetics.
+    Majoring in Physics and Applied Math.
+
+    2000 - 2004
+
+    Novosibirsk State University, Physics Department, Subdepartment of
+    Informational Technoligies.
+    Bachelor of Science. Bachelor's thesis on subject: "Design and
+    Implementation of MPEG-2 capture board drivers for Windows".
+    Graduated with honors.
+
+Employment history
+~~~~~~~~~~~~~~~~~~
+    August 2004 - present
+
+    Moscow Center for SPARC Technologies.
+    Maintenance and develompent of C/C++ compiler for Elbrus-2000 platform.
+
+    October 2002 - August 2004
+
+    Softlab-NSK.
+    Development of multimedia drivers, DirectShow filters and network
+    applications for Windows.
+
+
+Professional Skills
+~~~~~~~~~~~~~~~~~~~
+    Object-oriented programming and design
+
+    Programming languages:
+        Advanced: C, C++, Pascal, Delphi
+        Basic: x86 assembly, VB, Perl, Python, Ruby, SQL
+
+    Tools and technologies: WinAPI, NT Native API, Watcom, GCC, Visucal C++,
+    STL, MFC, Delphi, C++ Builder, VCL, COM, POSIX, shell scripting, CVS,
+    Apache, MySQL, Rational Rose, RUP
+
+    Web Development: HTML, DHTML, CSS, JS, PHP
+
+    Miscellaneous: All-Russian School Programming Contest's second level
+    Diploma (2000), Brainbench master level certifications in C and C++,
+    teamwork, fluent English (general and technical)

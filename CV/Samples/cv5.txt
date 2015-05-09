@@ -1,0 +1,75 @@
+Objective
+
+A software tech lead / software developer position, creating and shipping high quality applications or software components in a team environment.
+Summary
+
+Professional interests:
+
+enterprise applications, web-centered and web-enabled systems, heterogeneous distributed applications, middleware, custom applications on Microsoft .NET, Java or open source platforms.
+learning and exploring ways to improve personal productivity, process efficiency and evolving to better software engineering practices
+employing professional skills to deliver measurable and established business success
+Practical experience with great diversity of tools, platforms and techniques, including but not limited to the following.
+
+Programming languages	Java, C++, Python, Tcl, Perl, Lua, custom domain-specific languages (DSL) 
+Methodologies and processes	Rational Unified process, XP; acquaintance with MSF, Scrum and some others
+Design-level techniques	design patterns (GoF, GRASP), refactoring, test-driven development (TDD), prototyping, Unified modeling language (UML)
+Code-level techniques	 state machines, regular expressions, concurrency management
+Unit-level testing tools	xUnit family, mock objects
+Higher-level testing tools	FIT, jWebUnit, Expect, custom built ones
+Relational databases and techniques 	PostgreSQL, MSSQL, SQLite, MySQL; SQL standard and some vendor extensions; OR-mapping tools (SQLObject, Hibernate); programming libraries (DBAPI for Python, ODBC, ADO)
+web-related technologies 	 XML, XSLT, HTML, CSS languages; servlet-based web development (WebKit for Python, Struts/Sptring for Java),  web servers Apache and IIS, application servers Webware, Twisted, Tomcat
+software development tools	 CVS, Subversion, GNU tool chain, Eclipse,  Microsoft Project, Rational Rose, Microsoft Visual Studio.NET
+network communication protocols	TCP/IP, SNMP, OSPF
+application-level protocols 	HTTP, RPC, Atom, custom ones on top of TCP/IP and HTTP
+Work experience
+
+Oct. 2004 - current
+
+Position: Independent software developer
+
+Syndication Platform for content providers. Took part in building a syndication platform for a USA-based technology startup. Designed and implemented several modules that are parts of the platform, including RSS enclosures management, OPML import/export, advanced algorithm for managing and distributing audio/video content.
+
+Web site to provide mail forwarding (gateway), photo printing and delivery services. Launched as a personal venture, the goal was to build a service for a Ukrainian community living outside Ukraine. This site was shut down due to insufficient customer demand. Built with Python and Webware, it used XML/XSLT for presentation and SQLObject to persist data in a PostgreSQL.
+
+Sept. 2003 -- Sept. 2004, UCMG Ltd, Kiev.
+
+Position: Software developer lead
+
+An online product catalog plus admin back-end. Build a product database, accessible and searchable online for Baumer electric, Sweden. Implemented an approach that allowed to migrate existing catalog in a web-accessible format, took part in realizing a web front-end and administrative back-end application. Technologies used: XML, XSLT, Python, native XML database, RPC, ADO.
+
+Site generator. Completely reworked and built from scratch in-house site generator module for cs-publishing.de to replace several flavors of existing legacy generators and added important long-awaited new features. Built an approach that allowed to seamlessly integrate legacy data into a new framework. Technologies used: Python, XSLT.
+
+Development and maintenance of the web-based back-office application. Development and evolution of a large legacy web-based system for cs-publishing.de. Was responsible to build an incremental development strategy and realize it in a cost-effective way. As a team leader, was involved with detailed project planning, eliciting project requirements, crafting in-house development process.
+
+Web application test-bed based on FIT. To automate testing of our web applications a simple yet capable application was built in Java using HtmlUnit library. It was realized as a plug-in (fixture) for FIT and proved it's usefulness quickly. It can be used out-of-box to test typical web applications and could be further extended in Java for custom requirements (like verifying database state). Responsibilities: original idea, design and implementation. (note: as it turned out later, there is a similar HtmlFixture but it differs in several important ways).
+
+Sept. 2000 -- Sept. 2003, CJSC Malva, Kiev.
+
+Position: Senior software engineer with additional responsibilities for improving overall development process.
+
+Embedded engine for evaluating business rules for transport domain. Designed and developed a library to address the complex needs of an application in transport domain to specify  trip's schedules. Library was able to evaluate a plain text trip's specifications (in Russian) and was built on-top of a scripting language. The library was designed to be embedded in C++ application and was used in several different parts of the system.
+
+Automation control system for transport domain. Participating in establishing project plan, system architecture and technologies to be used, elaborating interface between various system components. Responsible for developing testing methods for Q&A, mentoring developers in unit testing, code design and refactoring.
+
+Localization of legacy ticket reservation system. Extended a Soviet-era legacy system to support printing tickets in Ukrainian for national railway monopoly UkrZaliznica to obey with government regulations. Extension was designed to be transparently sandwiched between host and legacy software and to perform translation based on known document's structure and a vocabulary database. My responsibilities managing of a full project lifecycle, including developing system requirements and architecture, establishing project plan and required work products, coaching and taking part in actual development process, coordinating system testing and deployment activities.
+
+Developing system to aid in control of the point-of-sale terminals workflow for financial and statistical purposes. System consists from an application server that processes and stores online data from POS terminals and clients (MFC-based GUI) that talks with application server to obtain interested data, calculate statistics and show it to the user. I was engaged in designing system architecture, determining functional requirements, developing client--server data exchange protocol (XML based, over HTTP) and implementing the application server. First release was successfully installed at the customer's site.
+
+Developing a specialized computer system to serve as a gateway between IP network and a legacy BSC1 network to connect diverse systems. Responsibilities: Designing protocol between gateway and each of the software systems and coding application that perform the task according to established specification. Additional features include real-time traffic's statistics and on-the-fly reconfiguration.
+
+Position: Software engineer.
+
+Implementing general-purpose framework for functional testing. Designing custom script language (on top of Tcl) tailored for compact and simple test definition (includes special support for defining test cases, new asserts and statistics). Developing both interactive graphical user interface (with Tk) and batch mode interface to run the tests.
+
+Developing multi-purpose embedded platform based on Linux to serve as a solid base to build various custom solutions. My role:
+Designing and implementing powerful development framework to facilitate and unify process of building, testing and releasing specific platform versions with different features. Framework is used as a base for several discrete products.
+
+Developing specialized software router. My role:
+Implementing a system configuration application to query and change miscellaneous system setting either locally (via command-line interface) or remotely (via TCP connection). Noteworthy features: data cryptographic protection, ability to checkpoint current configuration, access control, secure remote upgrades of the system software, reliability service. Writing a test suite (over 800 tests) to check correctness of the system behavior in various situations. Tests were written using in-house acceptance framework also developed by me. Product is in active use today and counts more than 100 installations.
+
+Education
+
+B.S. in Computer Science (Informational systems and technologies), Donetsk State Technical University, finished at 2000.
+Personal
+
+Hard-working, reliable, self-motivated and eager to learn, team player, professional attitude and work ethics. Excellent English written skills and good verbal skills. Touch-typist. Live in Kiev, age 26, married, have a child. Hobbies (besides programming itself) include reading, music and out-door sports.

@@ -1,0 +1,32 @@
+(in-package "CL-USER")
+
+(mk:defsystem "qst"
+	:source-extension "lisp"
+	:source-pathname 
+		(make-pathname :name nil :type nil :version nil
+    		:defaults (parse-namestring *load-truename*))
+	:depends-on ("ll-parsing" "html-writer")
+	:components (
+		(:file "util")
+		(:file "qst" :depends-on ("util"))
+		(:file "cnc" :depends-on ("qst" "util"))
+
+		(:file "qst-lesy-package" :depends-on ("qst"))
+		(:file "qst-lesy-guard" :depends-on ("qst-lesy-package" "qst" "util"))
+		(:file "qst-lesy-pack" :depends-on ("qst-lesy-package" "util"))
+		(:file "qst-lesy" :depends-on ("qst-lesy-guard" "qst-lesy-pack" 
+			"qst-lesy-package" "qst" "util"))
+		(:file "qst-lesy-test" :depends-on ("qst-lesy"))
+
+		(:file "cnc-lesy" :depends-on ("cnc" "qst"))
+		(:file "cnc-nova" :depends-on ("cnc" "qst"))
+
+		(:file "cnc-js" :depends-on ("cnc"))
+		(:file "cnc-cl" :depends-on ("cnc"))
+		(:file "cnc-html" :depends-on ("cnc"))
+		(:file "qst-html" :depends-on  ("qst" "cnc-js" "util"))
+		(:file "cnc-dot" :depends-on ("cnc"))
+
+		(:file "qst-commands" 
+			:depends-on ("qst-lesy" "qst-html"
+				"cnc-lesy" "cnc-nova" "cnc-dot"))))

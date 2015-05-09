@@ -1,0 +1,3 @@
+#!/bin/sh
+
+lisp -batch -quiet -core qst.cmucl -noinit -eval '(main (nthcdr 8 ext:*command-line-strings*)) (quit)' $*

@@ -1,0 +1,67 @@
+Areas Of Expertise: 
+Generic Software Development Expertise 
+* Object-Oriented Programming
+* Linux/Unix solutions
+* Database Development
+* Client-Server and Three-Tier Applications
+* Internet Applications
+* Network and distributed applications development
+* GUI Interfaces design and development
+* Real Time applications development
+* Design patterns
+* Project Management
+* Agile development methods (eXtreme Programming, Silver Bullet)
+* Scientific visualization
+
+Hardware and Operating Systems 
+* IBM PC and compatibles
+* SunOS/Solaris
+* Windows 9x/ME
+* Windows NT/2000
+* Linux
+* Software emulation of x86 hardware
+* Linux-based RTOS
+
+Languages, Tools and Technologies 
+* C/C++, Java, Delphi
+* PHP, Perl, Python
+* Databases: Oracle, MySQL
+* CGI, HTML, DHTML
+* Java, JavaScript, Servlets, JSP
+* PhpNuke, PostNuke
+* WebWare, Zope, Plone
+* Tomcat
+* WebLogic, Struts
+* AWK, Python, PHP, Perl, sed
+* XML, XSL, DOM, Xerces
+* SOAP
+* STL, VCL, OWL
+* Apache
+* TCP/IP Sockets, WinInet
+* CVS
+* Emacs and XEmacs
+
+Other:
+* scientific software
+* automated securities trading
+
+Active participation in open source development. Registered ALT Linux developer.
+
+ 
+ Resume:
+ 15 years of experience in various fields from mainframe to web development, from scientific applications to business integration to embedded solutions.
+
+ Professional Employment
+ 1999 - Present
+ Own software development, integration and consulting company.
+ 1996 - 1999
+ Contract software development.
+ 1992 - 1996
+ Kiev National University, Chemistry Department
+ 1988 - Present
+ Computational Chemistry Group, Leading developer
+
+ Foreign Languages
+ Native: Ukrainian, Russian
+ Fluent: English
+

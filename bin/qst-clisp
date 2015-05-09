@@ -1,0 +1,3 @@
+#!/usr/local/bin/clisp -M qst.clisp 
+
+(main ext:*args*)
